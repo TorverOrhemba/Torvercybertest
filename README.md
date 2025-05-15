@@ -9,7 +9,7 @@
 
 <h2>📺 My YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](https://youtu.be/P-4ac327BPk)
+- [Tutorial Active Directory Home Lab](https://www.youtube.com/channel/UCMuKPh44pjUc7wm5UV7uatA)
 
 
 
