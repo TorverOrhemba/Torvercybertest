@@ -15,7 +15,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMuKPh44pjUc7wm5UV7uatA?style=for-the-badge&logo=youtube&logoColor=red&logoSize=medium">
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMuKPh44pjUc7wm5UV7uatA?style=for-the-badge&logo=youtube&logoColor=red&logoSize=medium)
 
 [<img align="left" alt="TorverOrhemba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
